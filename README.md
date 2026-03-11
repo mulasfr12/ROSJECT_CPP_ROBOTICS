@@ -36,7 +36,7 @@ This project was completed as part of hands-on robotics training to practice wri
 
 ## Note
 
-This repository is based on coursework completed in The Construct environment. My focus was on understanding and implementing the robot control, scan-processing, and obstacle-avoidance logic within the project.
+This repository is based on coursework completed in The Construct environment. My focus was on understanding and implementing the robot control, scan-processing, and obstacle-avoidance logic within the project.The project was developed and tested in a ROS2 simulation environment using course-provided robotics tooling and simulation packages.
 
 ## Certification
 
