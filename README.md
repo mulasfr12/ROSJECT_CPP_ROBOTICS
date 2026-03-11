@@ -9,16 +9,41 @@ It focuses on robot control and navigation logic, including obstacle avoidance, 
 - turning and navigation logic
 - class-based and non-class-based control implementations
 
-## Project Structure
-- `include/` — header files
-- `src/` — C++ source files
-- `CMakeLists.txt` — build configuration
-- `package.xml` — ROS2 package metadata
+## Repository Structure
+
+```text
+cpp_basics_project/
+  include/
+  src/
+  CMakeLists.txt
+  package.xml
+
+  ## Main Source Files
+
+- robot_control_classed.cpp — class-based robot control logic
+
+- robot_control_noclass.cpp — non-class-based robot control implementation
+
+- robot_interface_class.cpp — robot interface implementation
+
+- robot_interface_main.cpp — main entry point
 
 ## Technologies
 - C++
 - ROS2
 - CMake
 
+## Purpose
+
+This project was completed as part of hands-on robotics training to practice writing C++ code for robot behavior, sensor-driven decisions, and basic navigation.
+
 ## Note
-This repository contains a course project package used to practice robotics programming concepts in C++.
+
+This repository is based on coursework completed in The Construct environment. My focus was on understanding and implementing the robot control, scan-processing, and obstacle-avoidance logic within the project.
+
+## Certification
+
+This project is connected to my completion of The Construct's **C++ for Robotics** course.
+
+Certificate verification:
+https://app.theconstruct.ai/accomplishments/verify/RIAE687E2E10A15
