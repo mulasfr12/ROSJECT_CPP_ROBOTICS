@@ -9,13 +9,12 @@ It focuses on robot control and navigation logic, including obstacle avoidance, 
 - turning and navigation logic
 - class-based and non-class-based control implementations
 
-## Repository Structure
+## Project Structure
+- `include/` — header files
+- `src/` — source files for robot control and interface logic
+- `CMakeLists.txt` — build configuration
+- `package.xml` — ROS2 package metadata
 
-cpp_basics_project/
-  include/
-  src/
-  CMakeLists.txt
-  package.xml
  ## Main Source Files
 
 - robot_control_classed.cpp — class-based robot control logic
