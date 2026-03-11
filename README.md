@@ -11,14 +11,12 @@ It focuses on robot control and navigation logic, including obstacle avoidance, 
 
 ## Repository Structure
 
-```text
 cpp_basics_project/
   include/
   src/
   CMakeLists.txt
   package.xml
-
-  ## Main Source Files
+ ## Main Source Files
 
 - robot_control_classed.cpp — class-based robot control logic
 
