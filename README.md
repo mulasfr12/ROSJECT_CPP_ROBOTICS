@@ -3,6 +3,11 @@
 This project was completed as part of The Construct's C++ for Robotics course.
 
 It focuses on robot control and navigation logic, including obstacle avoidance, scan interpretation, turning behavior, and motion control.
+- robot motion control
+- laser scan/range interpretation
+- obstacle avoidance behavior
+- turning and navigation logic
+- class-based and non-class-based control implementations
 
 ## Project Structure
 - `include/` — header files
